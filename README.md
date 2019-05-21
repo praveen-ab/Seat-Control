@@ -1,0 +1,2 @@
+# Seat-Control
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6d1aea31994448f39f43462c7ba02fb8)](https://app.codacy.com/app/praveen-ab/Seat-Control?utm_source=github.com&utm_medium=referral&utm_content=praveen-ab/Seat-Control&utm_campaign=Badge_Grade_Settings)
